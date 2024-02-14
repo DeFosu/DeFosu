@@ -1,1 +1,1 @@
-![]([https://github.com/DeFosu/DeFosu/assets/57310769/79c61204-9537-4f9c-99f9-64906d588f0c](https://github.com/DeFosu/DeFosu/blob/main/menhera-kun-hi-anime-hi.gif)https://github.com/DeFosu/DeFosu/blob/main/menhera-kun-hi-anime-hi.gif)
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/DeFosu/DeFosu/blob/main/menhera-kun-hi-anime-hi.gif)https://github.com/DeFosu/DeFosu/blob/main/menhera-kun-hi-anime-hi.gif)
