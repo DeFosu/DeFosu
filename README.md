@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DeFosu/DeFosu/blob/main/menhera-kun-hi-anime-hi.gif" width="25%" align="right"  />
+<img src="https://github.com/DeFosu/DeFosu/blob/main/output-onlinegiftools.gif" width="25%" align="right"  />
 <pre align="left">
         🎨 Junior Front-end Developer
         💻 Crafting User Interfaces • Embracing React Ecosystem
